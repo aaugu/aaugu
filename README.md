@@ -1,9 +1,8 @@
 <h1 align="center">Hello World 👋, I'm Anaïs</h1>
-- 🔭 I’m currently working on [a secret project](coming soon...)
+
+- :sunflower: I’m from Tours, France **now living in Switzerland :heart:**
 
 - 🌱 I’m currently learning **php**
-
-- 👯 I’m from Tours, France **now living in Switzerland :heart:**
 
 - 📫 How to reach me **augu.anais@gmail.com**
 
