@@ -4,7 +4,9 @@
 
 - 🌻 I’m from **Tours, France** now living in **Lausanne, Switzerland** :heart:
 
-- 🌱 Currently learning deeper Rails to develop my backend skills
+- ↪️ Changed my career path to web development with Le Wagon 🚋 in 2022
+
+- 🌱 Currently learning deeper Rails to develop my backend skills and planning to learn php
 
 - 📫 How to reach me : **augu.anais@gmail.com**
 
