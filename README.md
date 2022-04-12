@@ -4,15 +4,15 @@
 
 - 🌻 I’m from **Tours, France** now living in **Lausanne, Switzerland** :heart:
 
-- ↪️ Changed my career path to web development with Le Wagon 🚋 in 2022
+- ↪️ Changed my career path to **web development** with **Le Wagon** 🚋 in 2022
 
-- 🌱 Currently learning deeper Rails to develop my backend skills and planning to learn php
+- 🌱 Currently learning deeper **Rails** to develop my backend skills and planning to learn **php**
 
 - 📫 How to reach me : **augu.anais@gmail.com**
 
 - ✋ Connect with me : <a href="https://linkedin.com/in/anais-augu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anais-augu" height="15" width="20" /></a>
 
-- ⚡ Fun fact **I love escape games**
+- ⚡ Fun fact : I love escape games
 
 <h3 align="left">Languages :</h3>
 <p align="left"> 
