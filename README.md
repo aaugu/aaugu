@@ -1,13 +1,9 @@
-### Hi there 👋
-
-<!--
-**aaugu/aaugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hello World 👋, I'm Anaïs</h1>
 - 🔭 I’m currently working on [a secret project](coming soon...)
 
 - 🌱 I’m currently learning **php**
 
-- 👯 I’m from Tours, France ![alt text](https://www.pikpng.com/pngl/m/377-3772329_francais-english-sigle-francais-clipart.png) **now living in Switzerland**
+- 👯 I’m from Tours, France **now living in Switzerland :heart:**
 
 - 📫 How to reach me **augu.anais@gmail.com**
 
