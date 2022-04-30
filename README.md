@@ -8,6 +8,8 @@
 
 - 🌱 Currently learning deeper **Rails** to develop my backend skills and planning to learn **php**
 
+- ✨ Currently learning deeper **Figma** to better prototype projects
+
 - 📫 How to reach me : **augu.anais@gmail.com**
 
 - ✋ Connect with me : <a href="https://linkedin.com/in/anais-augu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anais-augu" height="15" width="20" /></a>
