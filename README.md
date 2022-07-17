@@ -6,9 +6,9 @@
 
 - ↪️ Changed my career path to **web development** with **Le Wagon** 🚋 in 2022
 
-- 🌱 Currently learning deeper **Rails** to develop my backend skills and planning to learn **php**
+- 🌱 Currently swimming through 42 School pool
 
-- ✨ Currently learning deeper **Figma** to better prototype projects
+- ✨ Currently working on a web development project
 
 - 📫 How to reach me : **augu.anais@gmail.com**
 
