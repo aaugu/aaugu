@@ -4,7 +4,7 @@
 
 - 🌻 I’m from **Tours, France** now living in **Lausanne, Switzerland** :heart:
 
-- ↪️ Changed my career path to **web development** with **Le Wagon** 🚋 in 2022
+- ↪️ Changed my career path to **web development** with **Le Wagon** 🚋 in 2021 and now with 42 Lausanne school
 
 - 🌱 Currently swimming through 42 School pool
 
