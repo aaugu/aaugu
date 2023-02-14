@@ -40,3 +40,5 @@
 </p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaugu&show_icons=true&locale=en&layout=compact" alt="aaugu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaugu&" alt="aaugu" /></p>
