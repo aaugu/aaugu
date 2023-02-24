@@ -4,11 +4,9 @@
 
 - 🌻 I’m from **Tours, France** now living in **Lausanne, Switzerland** :heart:
 
-- 🌱 Changed my career path to **web development** with **Le Wagon** 🚋 in 2021
+- ✨ Changed my career path to **web development** with **Le Wagon** 🚋 in 2021
 
 - 🌱 Currently studying at **42 Lausanne school** 
-
-- ✨ Currently working on a web development project
 
 - 📫 How to reach me : **augu.anais@gmail.com**
 
