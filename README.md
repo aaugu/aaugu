@@ -2,7 +2,7 @@
 
 <h3 align="left">About me :</h3>
 
-- 🌻 I’m from **Tours, France** now living in **Lausanne, Switzerland** :heart:
+- 🌻 I’m living in **Lausanne, Switzerland** :heart:
 
 - ✨ Changed my career path to **web development** with **Le Wagon** 🚋 in 2021
 
